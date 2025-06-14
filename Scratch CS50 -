@@ -1,0 +1,55 @@
+# Scratch CS50 - Mini Contra Game
+
+## 🎮 Game Title: *Red Falcon Showdown*
+
+## 🧠 Game Concept:
+This is a mini 2D platformer game inspired by *Contra*. Built using MIT Scratch as part of the CS50 Week 0 assignment.
+
+## 🕹️ Storyline:
+Bill Rizer steps into the jungle to destroy the evil *Red Falcon* organization.  
+As he begins his mission, he says:
+
+> “So this is the way to the Red Falcon base…”
+
+But suddenly:
+
+> “Wait!! Who is that?”
+
+The main villain, **Kimkoh**, appears and says:
+
+> "HAHAHAHA!! Look who's here Bill Rizer !! ,Surrender or pay for it!!"
+
+Bill replies:
+
+> “I’ve come too far to turn back now.” “Your evil ends today, Kimkoh!”
+
+Kimkoh taunts:
+
+> “Foolish mortal. This jungle will be your grave.” “My army awaits — let’s see how long you last.”
+
+And from there… the action begins! 🔥
+
+## 💡 Features Planned:
+- Multiple levels with increasing difficulty  
+- Boss fights at the end  
+- Gun upgrades with each level  
+- Cutscenes for story progression
+
+## 🛠️ Tools Used:
+- MIT Scratch  
+- CS50 IDE (initial planning)  
+- GitHub for version control  
+- Canva (photo editing)
+## ✅ Completed:
+- Story and dialogues  ✅
+- Basic character and villain sprites  ✅
+- Level 1 gameplay  
+- Sound effects and animations
+
+## 🚧 In Progress:
+- Level 2 design  
+- Boss logic  
+- Score system
+- boss fights
+---
+ here is a link for beta testing :) https://scratch.mit.edu/projects/1188589489
